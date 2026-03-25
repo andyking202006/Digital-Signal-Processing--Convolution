@@ -2,7 +2,7 @@
 ## Aim:
                   To perform linear convolution using MAT LAB.
 ## Software Required:
-MAT LAB R2012
+MAT LAB R2024
 ## Algorithm:
 Step 1: Open mat lab. Write the program.
 
